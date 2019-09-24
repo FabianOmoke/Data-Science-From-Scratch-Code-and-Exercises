@@ -1,3 +1,5 @@
+
+##THIS ARE RANDOM NOTES I WROTE IN CH.1 CRASH COURSE IN PYTHON
 from collections import defaultdict as dd,Counter
 import random
 
